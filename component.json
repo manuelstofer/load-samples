@@ -1,0 +1,14 @@
+{
+  "name": "load-samples",
+  "repo": "manuelstofer/load-samples",
+  "description": "Loads audio samples for use with Web-Audio-API",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+      "manuelstofer/each": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
